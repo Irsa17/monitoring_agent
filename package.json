@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ipware": "^2.0.0",
     "mongodb": "^3.3.2",
     "net-ping": "^1.2.3",
